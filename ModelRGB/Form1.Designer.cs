@@ -93,7 +93,7 @@ namespace ModelRGB
             // 
             // buttonConvert
             // 
-            this.buttonConvert.Location = new System.Drawing.Point(336, 250);
+            this.buttonConvert.Location = new System.Drawing.Point(295, 250);
             this.buttonConvert.Name = "buttonConvert";
             this.buttonConvert.Size = new System.Drawing.Size(75, 23);
             this.buttonConvert.TabIndex = 5;
@@ -105,7 +105,7 @@ namespace ModelRGB
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1130, 281);
+            this.ClientSize = new System.Drawing.Size(1070, 281);
             this.Controls.Add(this.buttonConvert);
             this.Controls.Add(this.buttonBrowse);
             this.Controls.Add(this.pictureBlue);
