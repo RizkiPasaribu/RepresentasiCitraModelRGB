@@ -1,0 +1,15 @@
+C:\Users\RIZKI\source\repos\ModelRGB\ModelRGB\bin\Debug\netcoreapp3.1\ModelRGB.exe
+C:\Users\RIZKI\source\repos\ModelRGB\ModelRGB\bin\Debug\netcoreapp3.1\ModelRGB.deps.json
+C:\Users\RIZKI\source\repos\ModelRGB\ModelRGB\bin\Debug\netcoreapp3.1\ModelRGB.runtimeconfig.json
+C:\Users\RIZKI\source\repos\ModelRGB\ModelRGB\bin\Debug\netcoreapp3.1\ModelRGB.runtimeconfig.dev.json
+C:\Users\RIZKI\source\repos\ModelRGB\ModelRGB\bin\Debug\netcoreapp3.1\ModelRGB.dll
+C:\Users\RIZKI\source\repos\ModelRGB\ModelRGB\bin\Debug\netcoreapp3.1\ModelRGB.pdb
+C:\Users\RIZKI\source\repos\ModelRGB\ModelRGB\obj\Debug\netcoreapp3.1\ModelRGB.csproj.AssemblyReference.cache
+C:\Users\RIZKI\source\repos\ModelRGB\ModelRGB\obj\Debug\netcoreapp3.1\ModelRGB.Form1.resources
+C:\Users\RIZKI\source\repos\ModelRGB\ModelRGB\obj\Debug\netcoreapp3.1\ModelRGB.csproj.GenerateResource.cache
+C:\Users\RIZKI\source\repos\ModelRGB\ModelRGB\obj\Debug\netcoreapp3.1\ModelRGB.AssemblyInfoInputs.cache
+C:\Users\RIZKI\source\repos\ModelRGB\ModelRGB\obj\Debug\netcoreapp3.1\ModelRGB.AssemblyInfo.cs
+C:\Users\RIZKI\source\repos\ModelRGB\ModelRGB\obj\Debug\netcoreapp3.1\ModelRGB.csproj.CoreCompileInputs.cache
+C:\Users\RIZKI\source\repos\ModelRGB\ModelRGB\obj\Debug\netcoreapp3.1\ModelRGB.dll
+C:\Users\RIZKI\source\repos\ModelRGB\ModelRGB\obj\Debug\netcoreapp3.1\ModelRGB.pdb
+C:\Users\RIZKI\source\repos\ModelRGB\ModelRGB\obj\Debug\netcoreapp3.1\ModelRGB.genruntimeconfig.cache
